@@ -1,0 +1,24 @@
+[
+	{
+		"name": "Union",
+		"leaderName": "Third Central Committee ",
+		"adjective": ["Union"],
+		"startBias": ["Oasis"],
+		"startIntroPart1": "A golden age in progress.",
+		"startIntroPart2": "Can you bring about a universe that adheres to the Pillars.",
+		"declaringWar": "For too long, you have been a threat to all sentient life.",
+		"attacked": "We shall not stand silent as you stomp upon our people.",
+		"defeated": "So this is how the dream ends? With a whimper...",
+		"introduction": "Greetings neighbor. Here is to us, and continued prosperity.",
+		"neutralHello": "Hello again.",
+		"hateHello": "I presume you come to apologize?",
+		"tradeRequest": "This should help smooth out future cooperation.",
+		"outerColor": [165, 23, 23],
+		"innerColor": [245, 245, 245],
+		"uniqueName": "The Utopian Pillars",
+		"uniques" : ["[+1 Science] [in all cities] <when not at war>", "[+1 Happiness] [in all cities] <when not at war>"],
+		"cities": ["Cradle", "Luna", "Mars", "Andes", "Cressidium", "Dawnline Shore", "Rocky Mountain", "Kunlun", "Ural", "Atlas",
+					"Himalaya", "Altai", "Carpathian", "Sierra Madre", "Karakoram", "Cascade", "Annamite", "Boundary Garden", "Karakkis Prime", "Elbert",
+					"Lincoln", "Caslte Station", "Toubkal", "Cerro Gordo", "Rainier Station"]
+	},
+]

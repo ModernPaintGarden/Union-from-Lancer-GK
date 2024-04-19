@@ -1,0 +1,26 @@
+[	
+	{
+		"name": "Heroic Legacy",
+		"replaces": "Heroic Epic",
+		"uniqueTo": "Union",
+		"cost": 125,
+		"culture": 1,
+		"production": 1,
+		"food": 1,
+		"isNationalWonder": true,
+		"uniques": ["Only available <if [Library] is constructed in all [non-[Puppeted]] cities>", "All newly-trained [non-[Air]] units [in all cities] receive the [Morale] promotion",
+			"Cost increases by [25] per owned city"],
+		"requiredTech": "Civil Service"
+	},
+{
+		"name": "GMS 3D Printer",
+		"uniqueTo": "Union",
+		"production": 2,
+		"happiness": 2,
+		"maintenance": 3,
+		"hurryCostModifier": 50,
+		"uniques": ["[+10]% Great Person generation [in this city]"],
+		"requiredTech": "Future Tech"
+	},
+
+]

@@ -1,0 +1,16 @@
+[	
+	{
+		"name": "Everest",
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "Union",
+		"range": 1,
+		"movement": 4,
+		"requiredTech": "Future Tech",
+		"strength": 90,
+		"rangedStrength": 90,
+		"cost": 425,
+		"promotions": ["Quick Study", "Targeting I", "Blitz"],
+		"uniques": ["Never appears as a Barbarian unit", "Can move after attacking", "Cannot be purchased", "[+5]% Strength bonus for [Military] units within [1] tiles"], 
+		"attackSound": "tankshot"
+	},
+]
